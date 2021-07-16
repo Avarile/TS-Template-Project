@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import useFetch from './Components/useHooks/useFetch';
+import 
+
 
 function App() {
 
-  useFetch( http://numbersapi.com/#42/trivia);
+
 
   return (
     <>
