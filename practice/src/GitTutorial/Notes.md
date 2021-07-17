@@ -30,4 +30,3 @@ each Commit contains:
 3. when the changes has been made
 4. complete snapshot 
 
-
