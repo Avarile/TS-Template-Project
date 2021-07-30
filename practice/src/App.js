@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from 'react';
-import 
+import Index from './Modules/DataManagement1/Index';
 
 
 function App() {
@@ -8,7 +7,7 @@ function App() {
 
   return (
     <>
-      I am here
+      <Index></Index>
     </>
   );
 }
