@@ -1,10 +1,6 @@
-import Index from './Modules/DataManagement1/Index';
-
+import Index from "./Modules/HooksPractice/Props/Index";
 
 function App() {
-
-
-
   return (
     <>
       <Index></Index>
