@@ -1,11 +1,12 @@
-import Index from "./Modules/HooksPractice/Props/Index";
+// import Index from "./Modules/HooksPractice/Props/Index";
+import Route from "./Modules/Route/Route1withslug"
 
 function App() {
   return (
     <>
-      <Index></Index>
+      <Route></Route>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
