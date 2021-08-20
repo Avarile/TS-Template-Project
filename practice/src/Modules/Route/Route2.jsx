@@ -18,7 +18,7 @@ const NestingExample = () => {
           {/* the Switches */}
           <Switch>
             <Route exact path="/">
-              <Home />
+              <HomePage />
             </Route>
 
             <Route exact path="/family">
@@ -86,3 +86,5 @@ const FamilyMember = () => {
     </>
   )
 }
+
+export default NestingExample
